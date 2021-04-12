@@ -1,6 +1,6 @@
 package com.tcreator;
 
-public class Person {
+public class Person{
   private String name;
   private String family;
   private Integer age;
